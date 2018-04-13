@@ -5,4 +5,5 @@ Training for IT Operation Team
 >>>二叉树  
 >>>>平衡二叉树  
 >>>>>满二叉树
+
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
