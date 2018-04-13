@@ -1,9 +1,6 @@
 # Training-for-IT-Operation-Team
-Training for IT Operation Team
->数据结构  
->>树  
->>>二叉树  
->>>>平衡二叉树  
->>>>>满二叉树
 
-![baidu](http://www.baidu.com/img/bdlogo.gif)
+>This is a training agenda for BM IT team, given by Tom Ye;
+>Please follow the reference belowing URL to start !
+
+*[Start](https://github.com/tomriddleatnj/Training-for-IT-Operation-Team/edit/master/README.md "Click me !")
